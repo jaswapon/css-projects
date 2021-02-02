@@ -1,0 +1,316 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+/**
+
+.containar{
+    margin: 0 auto;
+    background-color: black;
+    height: 2700px;
+    width: 100%;
+    
+}
+**/
+
+.mar{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    float: left;
+    display: block;
+}
+.logo{
+    height: 120px;
+    width: 100%;
+    background-color: black;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: #83af9b;
+    float: left;
+    display: block;
+}
+.common-1{
+    height: 350px;
+    width: 100%;
+    background-color:red;
+    float: left;
+    display: block;
+}
+.common-2{
+        height: 370px;
+        width: 48%;
+        background-color:white;
+        float: left;
+        display: block;
+        margin: 10px;
+}
+.common-3{
+    height: 300px;
+        width: 23%;
+        background-color:white;
+        float: left;
+        display: block;
+        margin-left: 20px;
+}
+.extra{
+    height: 80px;
+    width: 100%;
+    background-color: yellow;
+    float: left;
+    display: block;
+}
+/**
+.divone{
+height: 400px;
+width: 40%;
+background-color: blue;
+float: left;
+display: block;
+margin-left: 50px;
+}
+
+.divtwo{
+    height: 400px;
+    width: 40%;
+    background-color: rgb(198, 34, 212);
+    float: left;
+    display: block;
+    margin-left: 50px;
+    }
+    **/
+    /**
+    .divthree{
+        height: 300px;
+        width: 300px;
+        background-color: brown;
+        float: left;
+        display: block;
+        margin-left: 20px;
+    }
+    .divfour{
+        height: 300px;
+        width: 300px;
+        background-color: rgb(43, 38, 38);
+        float: left;
+        display: block;
+        margin-left: 20px;
+    }
+    .divfive{
+        height: 300px;
+        width: 300px;
+        background-color: rgb(19, 209, 67);
+        float: left;
+        display: block;
+        margin-left: 20px;
+    }
+    .divsix{
+        height: 300px;
+        width: 300px;
+        background-color: rgb(69, 42, 165);
+        float: left;
+        display: block;
+        margin-left: 20px;
+    }
+    **/
+    /**
+    .divseven{
+        height: 400px;
+        width: 40%;
+        background-color: blue;
+        float: left;
+        display: block;
+        margin-left: 50px;
+        }
+        .diveight{
+            height: 400px;
+            width: 40%;
+            background-color: blue;
+            float: left;
+            display: block;
+            margin-left: 50px;
+            }
+    .divnine{
+        height: 400px;
+        width: 40%;
+        background-color: blue;
+        float: left;
+        display: block;
+        margin-left: 50px;
+        }
+        .divten{
+            height: 400px;
+            width: 40%;
+            background-color: blue;
+            float: left;
+            display: block;
+            margin-left: 50px;
+            }
+            **/
+           
+            footer{
+                height: 100px;
+                width: 100%;
+                background-color: rgb(255, 145, 145);
+                float: left;
+                display: block;
+                text-align: center;
+                font-size: 50PX;
+                font-weight: 700;
+            }
+            .mar{
+                color: red;
+                font-size: 20px;
+                font-family: sans-serif;
+            }
+            .F{
+                color: white;
+                display: inline-block;
+                text-decoration: none;
+                font-size: 45px;
+                margin-top: 5px;
+                
+            }
+            .F1{
+                color: white;
+                display: inline-block;
+                text-decoration: none;
+                font-size: 30px;
+            }
+            .search{
+                margin-left: 250px;
+                height: 40px;
+                width: 400px;}
+            #sin{
+                text-decoration: none;
+                margin-left: 270px;
+                color: white;
+            }
+            #chr{
+                text-decoration: none;
+                background-color: olive;
+                border: oldlace 1px solid;
+                color: white;
+                margin-left: 30px;
+            }
+            .nav{
+                text-align: center;
+                font-size: 40px;
+                text-transform: uppercase;
+            }
+            .L{
+                color: white;
+                font-size: 80px;
+                font-family: sans-serif;
+                font-weight: 700;
+                margin-left: 150px;
+                margin-top: 50px;
+                display: inline;
+            }
+            .SALE{
+                color: white;
+                margin-left: 150px;
+                font-weight: 700;
+                font-size: 200px;
+            }
+            .K{
+                color:rgb(255, 255, 255);
+                display: inline;;
+                margin-left: 700px;
+            }
+            .on{
+                font-size: 16px;
+                font-weight: 700;
+                display: inline;
+                margin-left: 100px;
+                padding: 20px;
+            }
+            .line{
+            
+                color: red;
+                margin-left: 200px;
+                
+            }
+            .now{
+                text-decoration: none;
+                background-color: red;
+                margin-left: 80%;
+                color: white;
+                border: red;
+                border-radius: 20px;
+                padding:  15px;
+            }
+            .pic1{
+                height: 300px;
+                width: 650px;
+            }
+            .de{
+                font-size: 30px;
+                font-weight: 700;
+                text-align: center;
+                
+            }
+            .buy{
+                text-decoration: none;
+                color:white;
+                padding: 5px;
+                background-color: yellowgreen;
+                margin-left: 300px;
+                border-radius: 15px;
+            }
+            .pic2{
+                height: 250px;
+                width: 310px;
+            }
+            .de2{
+                font-size: 20px;
+                font-weight: 700;
+                text-align: center;
+                
+            }
+            .buy2{
+                text-decoration: none;
+                color:white;
+                padding: 3px;
+                background-color: yellowgreen;
+                margin-left: 120px;
+                border-radius: 15px;
+            }
+            .s2{
+                height: 350px;
+                width: 100%;
+            }
+            .last{
+                height: 230px;
+                width: 100%;
+                background-color: rgb(10, 10, 10);
+                float: left;
+                display: block;
+            }
+            .write{
+                height: 300px;
+                width: 33.3%;
+                float: left;
+                display: block;
+                color: white;
+                text-align: center;
+            }
+            .w3{
+                padding: 50px;
+                text-align: center;
+            }
+            .none{
+                height: 50px;
+                width: 100%;
+                background-color: #aaaaff;
+                display: block;
+                float: left;
+            }
